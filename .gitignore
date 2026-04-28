@@ -1,0 +1,9 @@
+node_modules/
+.wwebjs_auth/
+.wwebjs_cache/
+.env
+database.json
+*.mp3
+*.jpg
+*.png
+.qodo/
